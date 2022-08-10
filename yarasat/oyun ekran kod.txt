@@ -1,0 +1,68 @@
+<div id="afis">
+        <table>
+        <tr>
+        <td align="center">FIFA 19</td>
+        </tr>
+        <tr>
+        <td><img src="images/fifa 19/71xVs9vPY4L._SX342_.jpg" width="249" height="268"/></td>
+        </tr>
+        <tr>
+        <td>TÜR = SPOR OYUNLARI</td>
+        </tr>
+        <tr>
+        <td>PLATFORM = PC</td>
+        </tr>
+        <tr>
+        <td>BOYUT = 44.5 GB </td>
+        </tr>
+        <tr>
+        <td>REPACK BOYUTU = 31 GB </td>
+        </tr>
+        <tr>
+        <td>CRACK = CPY</td>
+        </tr>
+        <tr>
+        <td>ÇIKIÞ TARÝHÝ = 28 EYLÜL 2018</td>
+        </tr>
+        <tr>
+        <td height="127"><a href="https://www.torrentoyunindir.com/torrents1/fifa.19.cpy.37.torrent"><img src="images/torrent.jpg"/></a></td>
+        </tr>
+        <tr>
+			<td><a href="https://www.torrentoyunindir.com/torrents1/2428EA0A5543EA3C35408DD13643FBE92B1C532C.torrent"><img src="images/re-pack.jpg"><br/></a></td>
+        </tr>
+        </table>
+        </div>
+        <div id="foto3"> 
+        <img src="images/fifa 19/fifaoi5.jpg" width="680" height="360"/>
+        <img src="images/fifa 19/fifa oi1.jpg" width="680" height="360"/>
+        </div>
+        <div id="foto2">
+        <img src="images/fifa 19/fifa oi2.jpg" width="960" height="545"/>
+        <img src="images/fifa 19/fifa oi3.jpg" width="960" height="545"/>
+        </div>
+        <br/>
+        <div id="sistem">
+        <table align="center">
+        <tr>
+        <td width="471" align="center">MÝNÝMUM SÝSTEM GEREKSÝNÝMLERÝ</td>
+        <td width="471" align="center">TAVSÝYE EDÝLEN SÝSTEM GEREKSÝNÝMLERÝ</td>
+        </tr>
+        <tr>
+        <td>Ýþletim Sistemi = Windows 7/8.1/10 – 64-Bit<br/>
+Ýþlemci = Intel Core i3-2100 @ 3.1GHz or AMD Phenom II X4 965 @ 3.4 GHz<br/>
+RAM = 8 GB<br/>
+Sabit Disk = 50 GB<br/>
+Minimum Desteklenen Ekran Kartý: NVIDIA GTX 460 1GB veya AMD Radeon R7 260<br/>
+DirectX = 11.0<br/>
+</td>
+        <td>Ýþletim Sistemi = Windows 10 – 64-Bit<br/>
+Ýþlemci = Intel i3 6300T veya AMD Athlon X4 870K veya eþdeðer iþlemciler. Intel i3 4340, Intel i3 4350, AMD FX-4350 ve FX-4330 veya alternatifleri.<br/>
+RAM = 8 GB<br/>
+Sabit Disk = 50 GB<br/>
+Minimum Desteklenen Ekran Kartý = NVIDIA GeForce GTX 670 veya AMD Radeon R9 270X<br/>
+DirectX = 12.0<br/>
+</td>
+        </tr>
+        </table>
+        </div>
+        <br/>

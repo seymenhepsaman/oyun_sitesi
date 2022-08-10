@@ -1,0 +1,258 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(images/body.jpg);
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+#banner{
+	width: 960px;
+	height: 200px;
+	background-image:url(images/banner.jpg)
+}
+#menu{
+	width: 250px;
+	height: 60px;
+	margin-left: 370px;
+	margin-top: -200px;
+	
+}
+#menu ul li{
+	display: inline;
+}
+#menu ul li a{
+	display: block;
+	float: left;
+	text-decoration: none;
+	margin-right: 15px;
+	margin-left:15px;
+	line-height: 30px;
+	color:#FFF;
+}
+#menu ul li a:hover{
+	background-color:#C00;
+	
+}
+#kate{
+	width:960px;
+	height:75px;
+	background-color:#C00;
+	margin-top:140px;
+}
+#kate ul li{
+	display:inline;
+}
+#kate ul li a{
+	display:inline;
+	float:left;
+	text-decoration:none;
+	color:#FFF;
+	line-height:15px;
+}
+#content{
+	width:960px;
+	height:auto;
+	background-color:#69F;
+}
+#afis{
+	margin-left:10px;
+}
+#foto1{
+	margin-left:280px;
+	margin-top:-505px;
+}
+#foto3{
+	margin-left:280px;
+	margin-top:-605px;
+}
+#sayfano{
+	font-size: 32px;
+}
+#sayfano table tr td{
+	background:#cc0000;
+	color: #ffffff;
+}
+	#sayfano table tr td a{
+		color: #ffffff;
+		text-decoration: none;
+}
+#sayfano table tr td a:hover{
+	background: #000000;
+}
+.resima1, .resima2, .resima3, .resima4, .resima5, .resima6, .resima7, .resima8, .resima9, .resima10, .resima11, .resima12{
+	position:relative;
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.resima1 {
+	background-image:url(images/menu%20foto/pes%2019.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua1 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua1 h3 {
+	color:#000;
+	text-decoration:none;
+}
+.resima2 {
+	background-image:url(images/menu%20foto/NBA-2K19.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua2 {
+	background-color:#FFF;
+	color:#000;
+	text-align:center;
+}
+#kutua2 h3 {
+	color:#000;
+}
+.resima3 {
+	background-image:url(images/menu%20foto/fifa19.png);
+	width:100%;
+	min-height:500px;
+}
+#kutua3 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua3 h3 {
+	color:#000;
+}
+.resima4 {
+	background-image:url(images/menu%20foto/madden%20nfl19.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua4 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua4 h3 {
+	color:#000;
+	text-decoration:none;
+}
+.resima5 {
+	background-image:url(images/menu%20foto/FM19.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua5 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua5 h3 {
+	color:#000;
+	text-decoration:none;
+}
+.resima6 {
+	background-image:url(images/menu%20foto/wwe-2k19.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua6 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua6 h3 {
+	color:#000;
+	text-decoration:none;
+}
+.resima7 {
+	background-image:url(images/menu%20foto/fm18.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua7 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua7 h3 {
+	color:#000;
+	text-decoration:none;
+}
+.resima8 {
+		background-image:url(images/menu%20foto/wwe2k18.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua8 {
+	background-color:#FFF;
+	color:#000;
+	text-align:center;
+}
+#kutua8 h3 {
+	color:#000;
+}
+.resima9 {
+	background-image:url(images/menu%20foto/rugby18.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua9 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua9 h3 {
+	color:#000;
+}
+.resima10 {
+	background-image:url(images/menu%20foto/pes18.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua10 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua10 h3 {
+	color:#000;
+}
+.resima12 {
+	background-image:url(images/menu%20foto/nba%202k18.jpg);
+	width:100%;
+	min-height:500px;
+}
+#kutua12 {
+	background-color:#FFF;
+	color:#FFF;
+	text-align:center;
+}
+#kutua12 h3 {
+	color:#000;
+}
+.resima11 {
+	background-image:url(images/menu%20foto/fifa%2018.jpg);
+	width: auto;
+	min-height: 500px;
+}
+#kutua11{
+	background-color: #ffffff;
+	color: #ffffff;
+	text-align: center;
+}
+#kutua11 h3{
+	color: #000000;
+}
+
+	
